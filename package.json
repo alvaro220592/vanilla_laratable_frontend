@@ -1,6 +1,6 @@
 {
   "name": "vanilla_laratable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recursos frontend para a construção de datatables no Laravel",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
